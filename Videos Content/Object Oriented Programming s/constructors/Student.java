@@ -1,3 +1,5 @@
+package constructors;
+
 public class Student {
     // Primitive Data Types
     byte age;             // Age in years (small range)
@@ -14,7 +16,7 @@ public class Student {
 //    int[] marks;          // Array to store subject marks
 
     // Constructor
-//    public Student(byte age, short year, int rollNumber, long contactNumber,
+//    public constructors.Student(byte age, short year, int rollNumber, long contactNumber,
 //                   float percentage, double gpa, char grade, boolean isPassed,
 //                   String name, int[] marks) {
 //        this.age = age;
